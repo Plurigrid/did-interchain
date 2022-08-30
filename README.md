@@ -1,8 +1,8 @@
 # did:cosmos Method Specification
 
-This document defines the syntax, data model, and operations for the **did:cosmos** DID method.
+This document defines the syntax, data model, and operations for the **did:interchain** DID method.
 
-**Authors** :
+**Based on the work of** :
 
 * **Joe Andrieu** &lt;<a href="mailto:joe@legreq.com">joe@legreq.com</a>&gt;
 * **Lohan Spies** &lt;<a href="mailto:lohan.spies@ixo.world">lohan.spies@ixo.world</a>&gt;
